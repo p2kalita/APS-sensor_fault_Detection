@@ -1,6 +1,6 @@
-# neurolab-mongo-python
 
-![image](https://user-images.githubusercontent.com/57321948/196933065-4b16c235-f3b9-4391-9cfe-4affcec87c35.png)
+
+![APS-sensor_fault_Detection](https://socialify.git.ci/p2kalita/APS-sensor_fault_Detection/image?language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light)
 
 ### Step 1 - Install the requirements
 
